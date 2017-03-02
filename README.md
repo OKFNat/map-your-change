@@ -1,7 +1,7 @@
 Map The Change!
 ==============================
 
-**Map The Change!** ist eine **OpenStreetMap Mapping Party** währen der International Open Data Day 2017 in Graz. Dabei werden Orte der Nachhaltigkeit und Alternative Ökonomien gesammelt und in die OpenStreetMap/Transformap eingetragen. OpenStreetMap ist sozusagen die Wikipedia für geographische Informationen, und steht somit allen frei zu nutzen, bearbeiten und teilen. Transformap ist eine Erweiterung mit speziellen Fokus auf alternative Ökonomien. Somit soll gemeinsam eine für alle frei nutzbare Karte dieser Orte in Graz erstellt werden.
+**Map The Change!** ist eine **OpenStreetMap Mapping Party** währen dem International Open Data Day 2017 in Graz. Dabei werden Orte der Nachhaltigkeit und Alternative Ökonomien gesammelt und in die OpenStreetMap/Transformap eingetragen. OpenStreetMap ist sozusagen die Wikipedia für geographische Informationen, und steht somit allen frei zu nutzen, bearbeiten und teilen. Transformap ist eine Erweiterung mit speziellen Fokus auf alternative Ökonomien. Somit soll gemeinsam eine für alle frei nutzbare Karte dieser Orte in Graz erstellt werden.
 
 - Datum: 4. März 2017, 13-18 Uhr
 - Ort: Forum Stadtpark, Graz
@@ -12,11 +12,16 @@ Der Inhalt hier steht, soweit nicht explizit anders erwähnt, unter der [Creativ
 
 ## ABLAUF
 
+
 | Timetable     | Agenda       |
 |---------------|--------------|
-| 12:00 - 12:45 | [Eröffnung Interational Open Data Day](https://elevate.at/diskursprogramm/e17getogether/) |
-| 13:00 - 14:30 | Einführung Transformap & OpenStreetMap |
-| 14:30 - 18:00 | Offene Mapping-Party |
+| 13:00 - 13:10 | Willkommen |
+| 13:10 - 13:30 | Einführung OpenStreetMap |
+| 13:30 - 13:45 | Einführung Transformap |
+| 13:45 - 15:00 | Gemeinsames Kartieren und Diskussionen |
+| 15:00 - 18:00 | Offene Mapping-Party |
+
+Vor der Mapping-Party findet von 12 bis 12:45 Uhr die [Eröffnung des International Open Data Day](https://elevate.at/diskursprogramm/e17getogether/) statt.
 
 ### 1. Einführung Transformap & OpenStreetMap
 
